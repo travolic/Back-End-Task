@@ -27,7 +27,7 @@ This is including search by multiple criteria in the same time like search by de
 - You should use Node.js
 - Fetch the data directly from the URL and not create a JSON file
 -  Write full test using any test suite like Jest. preferred but not required
-- Implement [travis](https://travis-ci.org) or [scrutinizer-ci](https://scrutinizer-ci.com) or any other CI tool for the project, We are using CirclCI and Add the build status badges to your project README file
+- Implement [Circle-CI](https://circleci.com/)  or [travis](https://travis-ci.org) or any other CI tool for the project, We are using CircleCI and Add the build status badges to your project README file
 - Use [codeclimate](https://codeclimate.com) or any other alternative to estimate the code quality and add it's badge to your project README file
 - Do not use any database or any full text search engines
 - If you make any assumptions, mention them clearly in the readme file
