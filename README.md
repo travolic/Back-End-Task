@@ -4,7 +4,7 @@
 The objective of this challenge is to hit an endpoint containing the list of hotels and perform some actions on the result.
 The challenge must be solved NodeJs.
 
-The URL containing the list of hotels can be found at [https://api.myjson.com/bins/tl0bp](https://api.myjson.com/bins/tl0bp)
+The URL containing the list of hotels can be found at [http://fake-hotel-api.herokuapp.com/api/hotels](http://fake-hotel-api.herokuapp.com/api/hotels)
 
 ## Requirements and Output
 
